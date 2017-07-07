@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:7:5
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:7:15
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:9:5
+	android:name
+		ADDED from AndroidManifest.xml:9:22
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:10:5
+	android:name
+		ADDED from AndroidManifest.xml:10:22
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from AndroidManifest.xml:11:5
+	android:name
+		ADDED from AndroidManifest.xml:11:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:12:5
+	android:name
+		ADDED from AndroidManifest.xml:12:22
+application
+ADDED from AndroidManifest.xml:14:5
+	android:label
+		ADDED from AndroidManifest.xml:16:9
+	android:icon
+		ADDED from AndroidManifest.xml:15:9
+	android:theme
+		ADDED from AndroidManifest.xml:17:9
+	android:description
+		ADDED from AndroidManifest.xml:17:46
+activity#com.radio6ense.radioScan.RadioscanControllerActivity
+ADDED from AndroidManifest.xml:18:9
+	android:label
+		ADDED from AndroidManifest.xml:21:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:20:13
+	android:name
+		ADDED from AndroidManifest.xml:19:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:22:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:23:17
+	android:name
+		ADDED from AndroidManifest.xml:23:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:25:17
+	android:name
+		ADDED from AndroidManifest.xml:25:27
+activity#com.radio6ense.radioScan.TCPSelection
+ADDED from AndroidManifest.xml:28:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:30:13
+	android:theme
+		ADDED from AndroidManifest.xml:31:13
+	android:name
+		ADDED from AndroidManifest.xml:29:13
+activity#com.radio6ense.radioScan.BTSelection
+ADDED from AndroidManifest.xml:33:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:35:13
+	android:theme
+		ADDED from AndroidManifest.xml:36:13
+	android:name
+		ADDED from AndroidManifest.xml:34:13
+activity#com.radio6ense.radioScan.InventoryActivity
+ADDED from AndroidManifest.xml:38:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:40:13
+	android:theme
+		ADDED from AndroidManifest.xml:41:13
+	android:name
+		ADDED from AndroidManifest.xml:39:13
+activity#com.radio6ense.radioScan.ConfigurationActivity
+ADDED from AndroidManifest.xml:43:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:45:13
+	android:name
+		ADDED from AndroidManifest.xml:44:13
+activity#com.radio6ense.radioScan.ReaderConfigurationActivity
+ADDED from AndroidManifest.xml:47:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:49:13
+	android:name
+		ADDED from AndroidManifest.xml:48:13
+activity#com.radio6ense.radioScan.ProtocolConfigurationActivity
+ADDED from AndroidManifest.xml:51:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:53:13
+	android:name
+		ADDED from AndroidManifest.xml:52:13
+activity#com.radio6ense.radioScan.AntennaConfigurationActivity
+ADDED from AndroidManifest.xml:55:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:57:13
+	android:name
+		ADDED from AndroidManifest.xml:56:13
+activity#com.radio6ense.radioScan.PreferencesActivity
+ADDED from AndroidManifest.xml:59:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:61:13
+	android:name
+		ADDED from AndroidManifest.xml:60:13
+activity#com.radio6ense.radioScan.InventoryModeActivity
+ADDED from AndroidManifest.xml:63:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:65:13
+	android:theme
+		ADDED from AndroidManifest.xml:66:13
+	android:name
+		ADDED from AndroidManifest.xml:64:13
+activity#com.radio6ense.radioScan.ProgramIDActivity
+ADDED from AndroidManifest.xml:68:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:70:13
+	android:theme
+		ADDED from AndroidManifest.xml:71:13
+	android:name
+		ADDED from AndroidManifest.xml:69:13
+activity#com.radio6ense.radioScan.ReadAndWriteActivity
+ADDED from AndroidManifest.xml:73:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:75:13
+	android:theme
+		ADDED from AndroidManifest.xml:76:13
+	android:name
+		ADDED from AndroidManifest.xml:74:13
+activity#com.radio6ense.radioScan.LockTagActivity
+ADDED from AndroidManifest.xml:78:9
+	android:label
+		ADDED from AndroidManifest.xml:80:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:80:61
+	android:name
+		ADDED from AndroidManifest.xml:79:13
+activity#com.radio6ense.radioScan.KillTagActivity
+ADDED from AndroidManifest.xml:82:9
+	android:label
+		ADDED from AndroidManifest.xml:84:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:84:98
+	android:theme
+		ADDED from AndroidManifest.xml:84:61
+	android:name
+		ADDED from AndroidManifest.xml:83:13
+activity#com.radio6ense.radioScan.RT0005ControlRoomActivity
+ADDED from AndroidManifest.xml:86:9
+	android:label
+		ADDED from AndroidManifest.xml:86:85
+	android:configChanges
+		ADDED from AndroidManifest.xml:86:126
+	android:name
+		ADDED from AndroidManifest.xml:86:19

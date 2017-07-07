@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/rt0005_main_temperature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/default_margin"
+        android:gravity="center"
+        android:text="@string/inventory_mode_title"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ScrollView
+        android:id="@+id/rt0005_main_scrollview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <CheckBox
+                android:id="@+id/Inventory_mode_rssi_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/default_margin"
+                android:text="@string/Inventory_mode_rssi_checkbox" />
+
+            <CheckBox
+                android:id="@+id/Inventory_mode_button_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/default_margin"
+                android:focusable="true"
+                android:text="@string/inventory_mode_trigger" />
+
+            <CheckBox
+                android:id="@+id/inventory_mode_mask_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/statistic_margin"
+                android:layout_marginLeft="@dimen/default_margin"
+                android:layout_marginRight="@dimen/default_margin"
+                android:layout_marginTop="@dimen/default_margin"
+                android:text="@string/inventory_mode_mask_checkbox" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/mask_option_label"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/statistic_margin"
+                    android:gravity="center"
+                    android:text="@string/mask_option_label"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <RadioGroup
+                    android:id="@+id/radioGroup1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/default_margin"
+                    android:background="@drawable/default_border" >
+
+                    <RadioButton
+                        android:id="@+id/target_by_select_tag_radiobutton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+                        android:text="@string/target_by_select_tag_radiobutton" />
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="@dimen/default_margin"
+                        android:layout_marginTop="@dimen/default_margin" >
+
+                        <Spinner
+                            android:id="@+id/target_by_select_tag_spinner2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"/>
+
+                        <CheckBox
+                            android:id="@+id/target_selected_ascii_checkbox"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentTop="true"
+                            android:layout_toRightOf="@id/target_by_select_tag_spinner2"
+                            android:text="@string/target_selected_ascii_checkbox" />
+
+                    </RelativeLayout>
+
+                    <RadioButton
+                        android:id="@+id/target_by_mask_radiobutton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/default_margin"
+                        android:text="@string/target_by_mask_radiobutton" />
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/default_margin"
+                        android:gravity="center" >
+
+                        <EditText
+                            android:id="@+id/target_mask_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:inputType="none|text"
+                            android:singleLine="true" >
+                        </EditText>
+
+                        <CheckBox
+                            android:id="@+id/target_ascii_mask_checkbox"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginLeft="@dimen/statistic_margin"
+                            android:layout_toRightOf="@+id/target_mask_text"
+                            android:gravity="center|center_vertical"
+                            android:text="@string/target_ascii_mask_checkbox" />
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="@dimen/table_margin"
+                        android:gravity="center"
+                        android:visibility="gone" >
+
+                        <RadioGroup
+                            android:id="@+id/radioGroup3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="@dimen/table_margin"
+                            android:orientation="vertical" >
+
+                            <RadioButton
+                                android:id="@+id/target_match_radiobutton"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:checked="false"
+                                android:text="@string/target_match_radiobutton" />
+
+                            <RadioButton
+                                android:id="@+id/target_not_match_radiobutton"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:checked="false"
+                                android:text="@string/target_not_match_radiobutton" />
+
+                            <RadioButton
+                                android:id="@+id/target_both_match_radiobutton"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:checked="true"
+                                android:text="@string/target_both_match_radaiobutton" />
+
+                        </RadioGroup>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/start_byte_mask_label"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:text="@string/start_byte_mask_label"
+                                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                            <TextView
+                                android:id="@+id/start_byte_mask_textview"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:layout_gravity="center_vertical"
+                                android:background="@drawable/ic_menu_background"
+                                android:gravity="center"
+                                android:text="@string/zero"
+                                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical" >
+
+                                <Button
+                                    android:id="@+id/forward_byte_button"
+                                    style="?android:attr/buttonStyleSmall"
+                                    android:layout_width="50dp"
+                                    android:layout_height="wrap_content"
+                                    android:onClick="addQ"
+                                    android:text="@string/plus" />
+
+                                <Button
+                                    android:id="@+id/back_byte_button"
+                                    style="?android:attr/buttonStyleSmall"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:onClick="subQ"
+                                    android:text="@string/minus" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </RadioGroup>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rt0005_main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:scrollbarAlwaysDrawVerticalTrack="false"
+    android:scrollbarStyle="insideInset"
+    android:scrollbars="vertical"
+    tools:context=".RT0005ControlRoomActivity" >
+
+    <ScrollView
+        android:id="@+id/rt0005_main_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/rt0005_subscroll_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/rt0005_title_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical|center_horizontal|center"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/rt0005_control_room_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|center_horizontal|center"
+                    android:layout_margin="@dimen/default_margin"
+                    android:text="@string/rt0005taglabel"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/rt0005_tag_id_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/table_margin"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/rt0005_selected_tag_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/program_tag_selected_tag_label"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tag_selected"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/statistic_margin"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:typeface="monospace" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/rt0005_main_temp_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/padding_medium"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/rt0005_main_temperature"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|center_horizontal|center"
+                    android:background="@drawable/default_border"
+                    android:text="50°C"
+                    android:textSize="@dimen/rt0005temperature" />
+            </LinearLayout>
+
+            <TableLayout
+                android:id="@+id/rt0005_info_table"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal|center"
+                android:layout_marginTop="@dimen/default_margin"
+                android:background="@drawable/default_border"
+                android:gravity="center_vertical|center_horizontal|center"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:shrinkColumns="1" >
+
+                <TableRow
+                    android:id="@+id/rt0005_histo_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical|center_horizontal|center" >
+
+                    <TextView
+                        android:id="@+id/rt0005_histo_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/rt0005_histogram_alarm"
+                        android:textSize="@dimen/rt0005alarmlabel" />
+
+                    <ImageView
+                        android:id="@+id/rt0005_histo_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/led_verde" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/rt0005_estimed_arrival_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical|center_horizontal|center" >
+
+                    <TextView
+                        android:id="@+id/rt0005_estimed_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/rt0005_est_time_arrival"
+                        android:textSize="@dimen/rt0005alarmlabel" />
+
+                    <ImageView
+                        android:id="@+id/rt0005_estimed_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/led_rosso" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/rt0005_memory_full_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical|center_horizontal|center" >
+
+                    <TextView
+                        android:id="@+id/rt0005_memory_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/rt0005_mem_full"
+                        android:textSize="@dimen/rt0005alarmlabel" />
+
+                    <ImageView
+                        android:id="@+id/rt0005_memory_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/led_rosso" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/rt0005_battery_full_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/default_margin"
+                    android:gravity="center_vertical|center_horizontal|center" >
+
+                    <TextView
+                        android:id="@+id/rt0005_battery_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/rt0005_battery_status"
+                        android:textSize="@dimen/rt0005alarmlabel" />
+
+                    <ImageView
+                        android:id="@+id/rt0005_battery_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/batteria_bassa" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/rt0005_shipping_date_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/default_margin"
+                    android:gravity="center_vertical|center_horizontal|center" >
+
+                    <TextView
+                        android:id="@+id/rt0005_shipping_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/rt0005_shipping_date"
+                        android:textSize="@dimen/rt0005alarmlabel" />
+
+                    <TextView
+                        android:id="@+id/rt0005_shipping_value"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="07/07/2007 13:32:44" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/rt0005_stop_date_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical|center_horizontal|center" >
+
+                    <TextView
+                        android:id="@+id/rt0005_stop_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/rt0005_stop_date"
+                        android:textSize="@dimen/rt0005alarmlabel" />
+
+                    <TextView
+                        android:id="@+id/rt0005_stop_value"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="07/07/2007 20:22:33" />
+                </TableRow>
+            </TableLayout>
+
+            <LinearLayout
+                android:id="@+id/rt0005_command_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/default_margin"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/rt0005_refresh_button"
+                    style="@style/inventory_button_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="Refresh"
+                    android:text="@string/rt0005_refresh_state_button_caption" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+    
+</LinearLayout>

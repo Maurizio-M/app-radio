@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/reader_configuration_item" android:visible="true" android:title="@string/reader_configuration_item" android:menuCategory="container" android:enabled="true" android:checked="false" android:checkable="false" android:icon="@drawable/ic_menu_manage"></item>
+    <item android:id="@+id/inventory_mode_item" android:menuCategory="container" android:title="@string/inventory_mode_item" android:titleCondensed="Inventory Mode" android:visible="true" android:icon="@drawable/ic_menu_play_clip" android:checked="false" android:checkable="false" android:enabled="true"></item><item android:id="@+id/preferences_item" android:enabled="true" android:checked="false" android:menuCategory="container" android:checkable="false" android:visible="true" android:title="@string/preferences_item" android:icon="@drawable/ic_menu_preferences"></item>
+    
+    
+
+</menu>

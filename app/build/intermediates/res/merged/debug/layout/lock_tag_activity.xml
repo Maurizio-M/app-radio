@@ -1,0 +1,248 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lock_tag_scroller"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        tools:context=".LockTagActivity" >
+
+        <TextView
+            android:id="@+id/lock_tag_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/default_margin"
+            android:text="@string/lock_tag_title"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <LinearLayout
+            android:id="@+id/lock_tag_id_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/table_margin"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/lock_tag_selected_tag_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/program_tag_selected_tag_label"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tag_selected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/statistic_margin"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:typeface="monospace" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lock_tag_lockpad_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/default_margin"
+            android:background="@drawable/default_border"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/lock_tag_bank_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/default_margin"
+                android:background="@drawable/default_border" >
+
+                <TextView
+                    android:id="@+id/lock_tag_bank_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/lock_tag_bank_label" />
+
+
+                <Spinner
+                    android:id="@+id/lock_tag_bank_spinner"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/statistic_margin"
+                    android:layout_weight="1"
+                    android:entries="@array/lockBankArray" />
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/lock_tag_action_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/default_margin"
+                android:layout_marginLeft="@dimen/default_margin"
+                android:layout_marginRight="@dimen/default_margin"
+                android:layout_marginTop="@dimen/statistic_margin"
+                android:background="@drawable/default_border" >
+
+                <TextView
+                    android:id="@+id/lock_tag_action_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/lock_tag_action_label" />
+
+
+                <Spinner
+                    android:id="@+id/lock_tag_action_spinner"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/statistic_margin"
+                    android:layout_weight="1"
+                    android:entries="@array/lockActionArray" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lock_tag_command_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/default_margin"
+                android:background="@drawable/default_border" >
+
+                <Button
+                    android:id="@+id/lock_tag_apply_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/lock_tag_apply_button" />
+
+                <TextView
+                    android:id="@+id/lock_tag_pwd_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/statistic_margin"
+                    android:text="@string/lock_tag_pwd_label"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+
+                <EditText
+                    android:id="@+id/lock_tag_pwd"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:gravity="center"
+                    android:inputType="text"
+                    android:maxLength="@integer/pwd_hex_char"
+                    android:singleLine="true" >
+
+                    <requestFocus />
+                </EditText>
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:id="@+id/lock_tag_setpwd_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/default_margin"
+            android:background="@drawable/default_border"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+
+
+
+            <TextView
+                android:id="@+id/lock_tag_setpwd_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/statistic_margin"
+                android:text="@string/lock_tag_setpwd_label"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+
+            <TextView
+                android:id="@+id/lock_tag_setpwd_note"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/default_margin"
+                android:background="@drawable/default_border"
+                android:maxLines="@integer/max_notes_line"
+                android:text="@string/lock_tag_setpwd_note" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/default_margin"
+                android:background="@drawable/default_border"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/lock_tag_killpwd_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/lock_tag_killpwd_label" />
+
+
+                <EditText
+                    android:id="@+id/lock_tag_killpwd"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:gravity="center"
+                    android:inputType="text"
+                    android:maxLength="@integer/pwd_hex_char"
+                    android:singleLine="true" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/default_margin"
+                android:background="@drawable/default_border"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/lock_tag_accesspwd_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/lock_tag_accesspwd_label" />
+
+
+                <EditText
+                    android:id="@+id/lock_tag_accesspwd"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:gravity="center"
+                    android:inputType="text"
+                    android:maxLength="@integer/pwd_hex_char"
+                    android:singleLine="true" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/lock_tag_setpwd_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/statistic_margin"
+                android:text="@string/lock_tag_setpwd_button" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

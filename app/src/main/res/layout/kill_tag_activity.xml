@@ -1,0 +1,107 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/kill_tag_scroller"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:scrollbars="vertical" >
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/kill_tag_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|center_vertical"
+        android:orientation="vertical" >
+
+
+
+
+        <TextView
+            android:id="@+id/rt0005_control_room_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/default_margin"
+            android:text="@string/kill_tag_title"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+        <LinearLayout
+            android:id="@+id/rt0005_tag_id_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/table_margin"
+            android:gravity="center" >
+
+
+            <TextView
+                android:id="@+id/rt0005_selected_tag_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/program_tag_selected_tag_label"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tag_selected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/statistic_margin"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:typeface="monospace" />
+        </LinearLayout>
+
+
+
+
+
+        <LinearLayout
+            android:id="@+id/rt0005_command_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/default_margin"
+            android:orientation="horizontal" >
+
+
+
+            <Button
+                android:id="@+id/kill_tag_kill_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/kill_tag_kill_button" />
+
+
+
+
+
+            <TextView
+                android:id="@+id/kill_tag_pwd_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/default_margin"
+                android:text="@string/kill_tag_pwd_label"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+
+
+
+
+            <EditText
+                android:id="@+id/kill_tag_killpwd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:inputType="text"
+                android:singleLine="true" >
+
+            </EditText>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

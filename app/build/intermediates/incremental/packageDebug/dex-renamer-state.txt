@@ -1,0 +1,7 @@
+#Fri Jul 07 12:33:39 CEST 2017
+base.0=C\:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d54a918379e42b4da19ab8fd03f8da3b7ac7afcd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5c8b056d69c1a5f3d4e80a1b9dd1f396f1ad1f0a\\classes.dex
+base.1=C\:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5c8b056d69c1a5f3d4e80a1b9dd1f396f1ad1f0a
+file.0=C\:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d54a918379e42b4da19ab8fd03f8da3b7ac7afcd\\classes.dex

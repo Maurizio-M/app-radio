@@ -1,0 +1,7 @@
+#Fri Jul 07 12:33:38 CEST 2017
+base.0=C\:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\caenrfidlibrary_e0585e0f5a84e8a3317bb7f5103f78fce68b37bf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_05022a7ff45392432d4a7aa2585422d304c3c0ca\\classes.dex
+base.1=C\:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_05022a7ff45392432d4a7aa2585422d304c3c0ca
+file.0=C\:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\caenrfidlibrary_e0585e0f5a84e8a3317bb7f5103f78fce68b37bf\\classes.dex
