@@ -16,6 +16,10 @@
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\menu\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_lock_tag.xml",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\menu\\activity_lock_tag.xml"
     },
@@ -40,11 +44,23 @@
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\menu\\kill_tag_activity.xml"
     },
     {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_read_and__write.xml",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\menu\\activity_read_and__write.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\kill_tag_activity.xml",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\menu\\kill_tag_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_read_and__write.xml",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\menu\\activity_read_and__write.xml"
     },
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_lock_tag.xml",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\menu\\activity_lock_tag.xml"
     }
 ]

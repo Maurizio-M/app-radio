@@ -4,12 +4,20 @@
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable\\ic_tab_antenna.xml"
     },
     {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_protocol.xml",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable\\ic_tab_protocol.xml"
+    },
+    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_antenna.xml",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable\\ic_tab_antenna.xml"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_old.jpg",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable\\banner_old.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_antenna.xml",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable\\ic_tab_antenna.xml"
     },
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner.png",
@@ -20,12 +28,12 @@
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable\\ic_tab_antenna.xml"
     },
     {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_border.xml",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable\\default_border.xml"
-    },
-    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bt_reader.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable\\ic_bt_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_border.xml",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable\\default_border.xml"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_border.xml",
@@ -34,6 +42,10 @@
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_old.jpg",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable\\banner_old.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_border.xml",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable\\default_border.xml"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_protocol.xml",
@@ -56,8 +68,20 @@
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable\\banner_old.jpg"
     },
     {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_old.jpg",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable\\banner_old.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_reader_conf.xml",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable\\ic_tab_reader_conf.xml"
+    },
+    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable\\banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bt_reader.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable\\ic_bt_reader.png"
     },
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bt_reader.png",
@@ -88,8 +112,16 @@
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable\\ic_tcp_reader.png"
     },
     {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable\\banner.png"
+    },
+    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_reader_conf.xml",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable\\ic_tab_reader_conf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tcp_reader.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable\\ic_tcp_reader.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_protocol.xml",

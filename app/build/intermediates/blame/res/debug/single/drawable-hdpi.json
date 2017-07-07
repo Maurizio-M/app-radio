@@ -1,23 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_rosso.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\led_rosso.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_rosso.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\led_rosso.png"
-    },
-    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_verde.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\led_verde.png"
     },
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_verde.png",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\led_verde.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_play_clip.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_play_clip.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_help.png",
@@ -28,20 +16,280 @@
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_preferences.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_reader_conf.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_reader_conf.png"
-    },
-    {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_play_clip.png",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_play_clip.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_verde.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\led_verde.png"
     },
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_background.png",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_proto.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_proto.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_proto.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_proto.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_play_clip.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_play_clip.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_add.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_preferences.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_proto.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_proto.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_proto.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_proto.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_bt_reader.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_bt_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_preference.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_preference.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ec_launcher.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_ec_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_back.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_play_clip.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_play_clip.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_add.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_antenna.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_antenna.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_background.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_back.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_refresh.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tcp_reader.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tcp_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_background.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_antenna.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_antenna.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_antenna.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_antenna.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_bassa.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\batteria_bassa.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_antenna.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_antenna.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_scarica.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\batteria_scarica.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ec_launcher.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_ec_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_forward.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_add.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_bassa.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\batteria_bassa.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_manage.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_refresh.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_bt_reader.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_bt_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ec_launcher.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_ec_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_scarica.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\batteria_scarica.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_verde.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\led_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_antenna.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_antenna.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_reader_conf.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_reader_conf.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_preference.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_preference.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_reader_conf.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_reader_conf.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_stop.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_help.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_antenna.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_antenna.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_refresh.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_preference.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_preference.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_proto.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_proto.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_preference.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_preference.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_antenna.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_antenna.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_preference.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_preference.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tcp_reader.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tcp_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_stop.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_bassa.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\batteria_bassa.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_refresh.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_delete.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_rosso.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\led_rosso.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_rosso.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\led_rosso.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_forward.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_rosso.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\led_rosso.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_play_clip.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_play_clip.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_back.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_reader_conf.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_reader_conf.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_reader_conf.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_reader_conf.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_carica.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\batteria_carica.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_help.png",
@@ -64,24 +312,12 @@
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_add.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_proto.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_proto.png"
-    },
-    {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
     },
     {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_proto.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_proto.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_bt_reader.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_bt_reader.png"
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tcp_reader.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_tcp_reader.png"
     },
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_stop.png",
@@ -90,14 +326,6 @@
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_bassa.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\batteria_bassa.png"
-    },
-    {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_back.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_back.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
@@ -112,68 +340,32 @@
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_proto.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_play_clip.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_play_clip.png"
-    },
-    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
-    },
-    {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_proto.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_proto.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_bt_reader.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_bt_reader.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_add.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_antenna.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_antenna.png"
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_proto.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_proto.png"
     },
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_add.png",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_background.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_background.png"
-    },
-    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_preference.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_preference.png"
-    },
-    {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_back.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_back.png"
     },
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_antenna.png",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_antenna.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_refresh.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tcp_reader.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tcp_reader.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_antenna.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_antenna.png"
-    },
-    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_reader_conf.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_reader_conf.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_antenna.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_antenna.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_delete.png",
@@ -188,16 +380,16 @@
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\batteria_scarica.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_antenna.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_antenna.png"
-    },
-    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_scarica.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\batteria_scarica.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_manage.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_preference.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_preference.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_reader_conf.png",
@@ -208,52 +400,24 @@
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ec_launcher.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_ec_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_forward.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_forward.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_bassa.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\batteria_bassa.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_manage.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_manage.png"
-    },
-    {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tcp_reader.png",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tcp_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_stop.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_stop.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_background.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_background.png"
     },
     {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ec_launcher.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_ec_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_scarica.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\batteria_scarica.png"
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_help.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_help.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_carica.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\batteria_carica.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_verde.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\led_verde.png"
-    },
-    {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_preference.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_preference.png"
-    },
-    {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_reader_conf.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_reader_conf.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_manage.png",
@@ -264,87 +428,39 @@
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_forward.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_reader_conf.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_reader_conf.png"
-    },
-    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ec_launcher.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_ec_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_stop.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_stop.png"
-    },
-    {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_help.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_help.png"
     },
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_carica.png",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\batteria_carica.png"
     },
     {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_refresh.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
-    },
-    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_preferences.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_preferences.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_preference.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_preference.png"
+        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_reader_conf.png",
+        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\app-radio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_reader_conf.png"
     },
     {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_preference.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_preference.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_proto.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_proto.png"
+        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_reader_conf.png",
+        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_reader_conf.png"
     },
     {
         "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_manage.png",
         "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_manage.png"
     },
     {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_reader_conf.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_reader_conf.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_preference.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_preference.png"
-    },
-    {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_unselected_antenna.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_unselected_antenna.png"
-    },
-    {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_selected_preference.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_selected_preference.png"
-    },
-    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\led_rosso.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\led_rosso.png"
     },
     {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tcp_reader.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_tcp_reader.png"
-    },
-    {
         "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_forward.png",
         "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_forward.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_stop.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\appradio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_stop.png"
-    },
-    {
-        "merged": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\batteria_bassa.png",
-        "source": "C:\\Users\\Radio6ense\\Desktop\\APP\\markin86-radioscan-android-504e403534be\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\batteria_bassa.png"
-    },
-    {
-        "merged": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_refresh.png",
-        "source": "C:\\Users\\Maurizio\\AndroidStudioProjects\\markin86-radioscan-android-504e403534be\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
     }
 ]
